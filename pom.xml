@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>ebay</finalName>
+    <finalName>ebay_app</finalName>
   </build>
 </project>
