@@ -16,6 +16,13 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>ebay_app</finalName>
+	<finalName>ebay_app</finalName>
+	<plugins>
+      		<plugin>
+        		<groupId>org.apache.maven.plugins</groupId>
+        		<artifactId>maven-war-plugin</artifactId>
+        		<version>3.3.1</version>
+      		</plugin>
+    	</plugins>
   </build>
 </project>
